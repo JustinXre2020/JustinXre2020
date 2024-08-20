@@ -12,7 +12,10 @@ I'm still exploring the world of Computer Science and am open to any opportunity
 
 ## 🚀 Current Languages and Tools
 
-Java (Spring Boot, Spring Cloud), Python (Flask, Django, Pandas, NumPy, etc.), JavaScript, TypeScript, React, Node.js, C/C++, SQL, HTML, CSS, Bootstrap, Material UI, BERTopic, LangChain, MySQL, Firebase, PostgreSQL, and even more!
+- Languages: Java, Python, JavaScript, TypeScript, C/C++, SQL, HTML, CSS
+- Framworks: Spring Boot, Spring Cloud, Flask, Django, Pandas, NumPy, React, Node.js, Bootstrap, Material UI
+- Tools: BERTopic, LangChain, MySQL, Firebase, PostgreSQL
+To be continued...
 
 ## ⛳️ Some of my Past Projects
 
