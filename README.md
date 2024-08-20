@@ -10,7 +10,7 @@ I'm still exploring the world of Computer Science and am open to any opportunity
 - ⚡️ Fun fact: I love to take pictures📷 and I took my profile picture myself back in 2022 at the beautiful city of Xi'an🌇!
 
 
-## 🚀 Current Languages and Tools
+## 🚀 Current Tech Knowledge
 
 - Languages: Java, Python, JavaScript, TypeScript, C/C++, SQL, HTML, CSS
 - Framworks: Spring Boot, Spring Cloud, Flask, Django, Pandas, NumPy, React, Node.js, Bootstrap, Material UI
