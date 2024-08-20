@@ -6,7 +6,7 @@ I'm still exploring the world of Computer Science and am open to any opportunity
 - 💻 I'm currentlly looking for 25 winter/summer internships
 - 🗓 I'm looking to collaborate on OpenSource Projects/Hackathons/...
 - 👨🏻‍💻 I'm currently learning Machine Learning, Natural Language Processing, and any other field beyond Software Engineering
-- ⚡️ Fun fact: I love to take pictures📷 and I took my profile picture myself back in 2022 at the beatiful of Seattle ![image](https://github.com/user-attachments/assets/1688604f-4baa-4c40-af42-0342918657ca)
+- ⚡️ Fun fact: I love to take pictures📷 and I took my profile picture myself back in 2022 at the beautiful of Seattle🌇!
 
 
 ## 🚀 Current Languages and Tools
