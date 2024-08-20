@@ -1,12 +1,13 @@
 ## Hi there 👋 This is Justin
 
 A little about me: I'm currently a first-year master studying Computer Science @ Brown University, and previously a SDE @ Huawei
-I'm still exploring the world of Computer Science and am open to any projects to work on it together!
+I'm still exploring the world of Computer Science and am open to any opportunity to work on it together!
 
-- 💻 I'm currentlly working on all kinds of projects and freelancing by myself!
-- 🗓 I'm looking to collaborate on OpenSource Projects/Hackathons/Competitions/...
-- 👨🏻‍💻 I'm currently learning [Swift](https://www.swift.org/about/), [Next.js](https://nextjs.org), and [Golang](https://go.dev/) \[I'm also interested in security...🤫\]
-- ⚡️ Fun fact: I love to play the piano🎹 and I have a corgi🐾
+- 💻 I'm currentlly looking for 25 winter/summer internships
+- 🗓 I'm looking to collaborate on OpenSource Projects/Hackathons/...
+- 👨🏻‍💻 I'm currently learning Machine Learning, Natural Language Processing, and any other field beyond Software Engineering
+- ⚡️ Fun fact: I love to take pictures📷 and I took my profile picture myself back in 2022 at the beatiful of Seattle ![image](https://github.com/user-attachments/assets/1688604f-4baa-4c40-af42-0342918657ca)
+
 
 ## 🚀 Current Languages and Tools
 
