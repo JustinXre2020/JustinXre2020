@@ -16,7 +16,7 @@ Java (Spring Boot, Spring Cloud), Python (Flask, Django, Pandas, NumPy, etc.), J
 ## ⛳️ Some of my Past Projects
 
 - **DIP-Drought**: [Backend Data Pipeline](https://sslabgpu2.ischool.illinois.edu/), [Frontend User Interface](https://droughtweb.web.illinois.edu/), [Source Code](https://github.com/ShangLanyu/droughwebsite)
-- ![image](https://github.com/user-attachments/assets/1b05defa-c936-45f9-ad9a-0dee7c223b96)
+  ![image](https://github.com/user-attachments/assets/1b05defa-c936-45f9-ad9a-0dee7c223b96)
 
 - **Amazon Product Representative Slack Bot**: [Source Code](https://github.com/JustinXre2020/ChatBot)
 
