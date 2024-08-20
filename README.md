@@ -21,6 +21,7 @@ I'm still exploring the world of Computer Science and am open to any opportunity
 ## ⛳️ Some of my Past Projects
 
 - **DIP-Drought**: [Backend Data Pipeline](https://sslabgpu2.ischool.illinois.edu/), [Frontend User Interface](https://droughtweb.web.illinois.edu/), [Source Code](https://github.com/ShangLanyu/droughwebsite)
+  In affiliation with SSI Lab @ University of Illinois at Urbana-Champaign, partnered with Prof. Dong Wang, Prof. Xinmin Cai, Lanyu Shang and Seattle Yang
   ![image](https://github.com/user-attachments/assets/1b05defa-c936-45f9-ad9a-0dee7c223b96)
 
 - **Amazon Product Representative Slack Bot**: [Source Code](https://github.com/JustinXre2020/ChatBot)
