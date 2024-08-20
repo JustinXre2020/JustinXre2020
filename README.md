@@ -12,7 +12,7 @@ I'm still exploring the world of Computer Science and am open to any opportunity
 
 ## 🚀 Current Tech Knowledge
 
-- Languages: Java, Python, JavaScript, TypeScript, C/C++, SQL, HTML, CSS
+- Languages: Java, Python, JavaScript, TypeScript, C++, C, SQL, HTML, CSS
 - Framworks: Spring Boot, Spring Cloud, Flask, Django, Pandas, NumPy, React, Node.js, Bootstrap, Material UI
 - Tools: BERTopic, LangChain, MySQL, Firebase, PostgreSQL
 
