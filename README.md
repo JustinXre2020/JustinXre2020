@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Justin
 
-Currently a first-year master student studying Computer Science @ Brown University, and previously SDE @ Huawei and Information Science @ University of Illinois at Urbana-Champaign
+Currently a first-year master student studying Computer Science @ Brown University, previously SDE @ Huawei and Information Science @ University of Illinois at Urbana-Champaign
 
 I'm still exploring the world of Computer Science and am open to any opportunity to work on it together!
 
