@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Justin
 
-A little about me: I'm currently a first-year master studying Computer Science @ Brown University, and previously a SDE @ Huawei
+In summary: I'm currently a first-year master studying Computer Science @ Brown University, and previously a SDE @ Huawei
 I'm still exploring the world of Computer Science and am open to any opportunity to work on it together!
 
 - 💻 I'm currentlly looking for 25 winter/summer internships
