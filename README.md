@@ -22,7 +22,7 @@ I'm still exploring the world of Computer Science and am open to any opportunity
 
 - **DIP-Drought**: [Backend Data Pipeline](https://sslabgpu2.ischool.illinois.edu/), [Frontend User Interface](https://droughtweb.web.illinois.edu/), [Source Code](https://github.com/ShangLanyu/droughwebsite)
 
-  In affiliation with [Social Sensing & Intelligence Lab](https://www.wangdong.org/sslab/index.html) @ University of Illinois at Urbana-Champaign, under supervision by [Prof. Dong Wang](https://www.wangdong.org/), [Prof. Xinmin Cai](https://www.linkedin.com/in/ximing-cai-624a9a12/) and partnered with [Lanyu Shang](https://www.linkedin.com/in/shanglanyu/) and [Seattle Yang](https://www.linkedin.com/in/ruozhen-yang/)
+  In affiliation with [Social Sensing & Intelligence Lab](https://www.wangdong.org/sslab/index.html) @ University of Illinois at Urbana-Champaign, under supervision of [Prof. Dong Wang](https://www.wangdong.org/), [Prof. Xinmin Cai](https://www.linkedin.com/in/ximing-cai-624a9a12/) and partnered with [Lanyu Shang](https://www.linkedin.com/in/shanglanyu/) and [Seattle Yang](https://www.linkedin.com/in/ruozhen-yang/)
 
   ![image](https://github.com/user-attachments/assets/1b05defa-c936-45f9-ad9a-0dee7c223b96)
 
