@@ -13,13 +13,13 @@ I'm still exploring the world of Computer Science and am open to any opportunity
 ## 🚀 Current Tech Knowledge
 
 - Languages: Java, Python, JavaScript, TypeScript, C++, C, SQL, HTML, CSS
-- Framworks: Spring Boot, Spring Cloud, Flask, Django, Pandas, NumPy, React, Node.js, Bootstrap, Material UI
+- Framworks: Spring Boot, Spring Cloud, Flask, Pandas, NumPy, React, Node.js, Bootstrap, Material UI
 - Tools: BERTopic, LangChain, MySQL, Firebase, PostgreSQL
 
 
 ## ⛳️ Some of my Past Projects
 
-- **DIP-Drought**: [Backend Data Pipeline](https://sslabgpu2.ischool.illinois.edu/), [Frontend User Interface](https://droughtweb.web.illinois.edu/), [Source Code](https://github.com/ShangLanyu/droughwebsite)
+- **DIP-Drought**: [Backend Data Pipeline](https://sslabgpu2.ischool.illinois.edu/), [Frontend User Interface](https://droughtweb.web.illinois.edu/)
 
   In affiliation with [Social Sensing & Intelligence Lab](https://www.wangdong.org/sslab/index.html) @ University of Illinois at Urbana-Champaign, under the supervision of [Prof. Dong Wang](https://www.wangdong.org/), [Prof. Ximing Cai](https://www.linkedin.com/in/ximing-cai-624a9a12/) and partnered with [Lanyu Shang](https://www.linkedin.com/in/shanglanyu/), [Seattle Yang](https://www.linkedin.com/in/ruozhen-yang/) and Ray Jeong
 
