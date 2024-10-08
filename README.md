@@ -14,7 +14,7 @@ I'm still exploring the world of Computer Science and am open to any opportunity
 
 - Languages: Java, Python, JavaScript, TypeScript, C++, C, SQL, HTML, CSS
 - Framworks: Spring Boot, Spring Cloud, Flask, Pandas, NumPy, React, Node.js, Bootstrap, Material UI
-- Tools: BERTopic, LangChain, MySQL, Firebase, PostgreSQL
+- Tools: BERTopic, LangChain, MySQL, Firebase, MongoDB, PostgreSQL
 
 
 ## ⛳️ Some of my Past Projects
