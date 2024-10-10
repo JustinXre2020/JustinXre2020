@@ -4,7 +4,7 @@ Currently a first-year master student studying Computer Science @ Brown Universi
 
 I'm still exploring the world of Computer Science and am open to any opportunity to work on it together!
 
-- 💻 I'm currentlly looking for 2025 winter/summer internships
+- 💻 I'm currentlly looking for 2025 summer internships
 - 🗓 I'm looking to collaborate on OpenSource Projects/Hackathons/...
 - 👨🏻‍💻 I'm currently learning Machine Learning, Natural Language Processing, and any other field beyond Software Engineering
 - ⚡️ Fun fact: I love to take photos📷 and I took my profile picture myself at the beautiful and historical city of Xi'an🌇!
