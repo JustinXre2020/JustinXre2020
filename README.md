@@ -25,7 +25,7 @@ I'm still exploring the world of Computer Science and am open to any opportunity
 
   ![image](https://github.com/user-attachments/assets/1b05defa-c936-45f9-ad9a-0dee7c223b96)
 
-- **Amazon Product Representative Slack Bot**: [Source Code](https://github.com/JustinXre2020/ChatBot)
+- **Amazon Product Representative Slack Bot**: [Source Code](https://github.com/JustinXre2020/ChatBot/tree/main)
 
 
 <!-- Hello From Github-->
