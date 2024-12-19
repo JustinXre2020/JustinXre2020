@@ -1,4 +1,4 @@
-## Hi there 👋 This is Justin
+## Hi there 👋 This is Xulong
 
 Currently a first-year master student studying Computer Science @ Brown University, previously SDE @ Huawei
 
