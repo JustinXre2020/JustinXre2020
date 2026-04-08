@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Xulong
 
-Currently a first-year master student studying Computer Science @ Brown University, previously SDE @ Huawei and SDE Intern @ TikTok
+Currently a first-year master student studying Computer Science @ Brown University, previously SDE Intern @ TikTok
 
 I'm still exploring the world of Computer Science and am open to any opportunity to work on it together!
 
