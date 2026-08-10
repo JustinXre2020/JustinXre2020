@@ -15,7 +15,7 @@ I'm still exploring the world of Computer Science and am open to any opportunity
   Impact analysis & ML data platform work with `Apache Iceberg` · `Spark / PySpark` · `Python` · `Go` · `Neo4j`
 - **TikTok** — Software Engineer Intern
   Architected **EchoTest**, a multi-agent automated testing system for the TikTok Business API (`LangChain` · `LangGraph` · `MCP` · `Redis` · `Kafka` · `MongoDB`), covering 400+ APIs with ~90% scenario coverage and ~60% less manual test-writing effort
-- **Huawei (Contract)** — Software Engineer
+- **Huawei** — Software Engineer
   Order-management microservices, multi-layer caching (`Caffeine` + `Redis`) that cut API latency from 3s to 240ms, S3 batch image pipelines, and Jenkins/EKS CI/CD
 - **Social Sensing & Intelligence Lab @ UIUC** — Research Assistant
   Real-time social data pipeline (2.4M tweets, `BERTopic` + `RoBERTa`) behind a drought information platform — work published at **AAAI ICWSM 2024**
